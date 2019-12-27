@@ -1,0 +1,13 @@
+{
+  "name": "jsStackLearnings",
+  "version": "1.0.0",
+  "description": "Project to learn about the jsStack",
+  "main": "index.js",
+  "author": "Ganesh Salvi",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
